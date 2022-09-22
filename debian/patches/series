@@ -1,0 +1,6 @@
+0001-avoid-identifying-as-beta.patch
+0004-drop-python2-support.patch
+0006-Ship-python-examples-with-python3-in-shebang-line.patch
+0004-core-Fix-use-after-free-issue-in-test.patch
+0005-Make-sure-expiration-time-is-interpreted-as-unsigned.patch
+0006-Avoid-the-hardcoded-list-of-Python-versions.patch
